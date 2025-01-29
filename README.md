@@ -7,7 +7,7 @@
   - 📧 Email: ayrandeveloper@gmail.com  
   - 📷 Instagram: [@ayran.code](https://www.instagram.com/ayran.code)  
   - 💼 LinkedIn: [ayran-vieira-dev](https://www.linkedin.com/in/ayran-vieira-dev)  
-- 😄 Pronouns: he/him (ele/dele)  
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Until January 2024, I worked in construction, but I made a drastic career shift to programming—a field I've been passionate about since my early school days. 
 
 <!---
