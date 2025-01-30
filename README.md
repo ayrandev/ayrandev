@@ -1,18 +1,18 @@
-### Hi there, I'm Ayran Vieira! 👋
+### Olá, eu sou Ayran Vieira! 👋
 
 ---
 
-### 🚀 About Me
+### 🚀 Sobre Mim
 
-🔹 **Web Developer | Freelancer | Data Science Enthusiast**  
-🔹 Passionate about technology, problem-solving, and creating impactful web solutions.  
-🔹 Transitioned from construction to programming—a field I've been passionate about since my school days.  
+🔹 **Desenvolvedor Web | Freelancer | Entusiasta de Ciência de Dados**  
+🔹 Apaixonado por tecnologia, resolução de problemas e criação de soluções web impactantes.  
+🔹 Transicionei da construção civil para a programação—uma área pela qual sou apaixonado desde os tempos de escola.  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tecnologias
 
-#### **Languages & Frameworks**
+#### **Linguagens & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
 </p>
 
-#### **Tools & Platforms**
+#### **Ferramentas & Plataformas**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -31,23 +31,25 @@
 
 ---
 
-### 💼 What I Do
-✔️ Developing **landing pages**, **portfolios**, and **websites** for clients.  
-✔️ Exploring **data science** to enhance my skillset.  
-✔️ Open to **collaborating on social projects** and **freelance work**.  
+### 💼 O Que Eu Faço
+✔️ Desenvolvimento de **landing pages**, **portfólios** e **websites** para clientes.  
+✔️ Explorando **ciência de dados** para aprimorar minhas habilidades.  
+✔️ Aberto para **colaborações em projetos sociais** e **trabalho freelance**.  
 
 ---
 
-### 📫 Let's Connect
+### 📫 Conecte-se Comigo
 📧 **Email:** ayrandeveloper@gmail.com  
 📷 **Instagram:** [@ayran.code](https://www.instagram.com/ayran.code)  
 💼 **LinkedIn:** [ayran-vieira-dev](https://www.linkedin.com/in/ayran-vieira-dev)  
 
-⚡ **Fun Fact:** I made a career shift from **construction to coding** in 2024, fulfilling a passion I've had for over 15 years!
+⚡ **Curiosidade:** Fiz uma transição de carreira da **construção civil para a programação** em 2024, realizando um desejo que tenho há mais de 15 anos!
 
 ---
 
-🔥 **Check out my projects and let's build something amazing together!** 🚀
+🔥 **Confira meus projetos e vamos construir algo incrível juntos!** 🚀
+
+
 
 
 
