@@ -4,9 +4,12 @@
 
 ### 🚀 Sobre Mim
 
-🔹 **Desenvolvedor Web | Freelancer | Entusiasta de Java**  
+🔹 **Desenvolvedor Web | Freelancer | Estudante de Java**  
 🔹 Apaixonado por tecnologia, resolução de problemas e criação de soluções web impactantes.  
-🔹 Transicionei da construção civil para a programação, uma área pela qual sou apaixonado desde os tempos de infância.  
+🔹 Transicionei da construção civil para a programação, área que me encanta desde a infância.  
+🔹 Atualmente estudando **Java** e aprofundando meus conhecimentos em desenvolvimento full stack.
+
+🔗 **Portfólio:** [ayran-vieira-dev.vercel.app](https://ayran-vieira-dev.vercel.app/)
 
 ---
 
@@ -14,6 +17,7 @@
 
 #### **Linguagens & Frameworks**
 <p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
@@ -37,9 +41,10 @@
 ---
 
 ### 💼 O Que Eu Faço
-✔️ Desenvolvimento de **landing pages**, **portfólios** e **websites** para clientes.  
-✔️ Explorando **Java** para aprimorar minhas habilidades.  
-✔️ Aberto para **colaborações em projetos sociais** e **trabalho freelance**.  
+✔️ Desenvolvimento de **landing pages**, **portfólios** e **websites** personalizados.  
+✔️ Estudando **Java** com foco em back-end e aplicações orientadas a objetos.  
+✔️ Buscando desafios reais para aplicar meus conhecimentos.  
+✔️ Aberto para **colaborações em projetos sociais** e **trabalho freelance**.
 
 ---
 
@@ -64,12 +69,3 @@
 ---
 
 🔥 **Confira meus projetos e vamos construir algo incrível juntos!** 🚀
-
-
-
-
-
-<!---
-ayrandev/ayrandev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
