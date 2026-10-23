@@ -4,7 +4,7 @@
 
 ### 🚀 Sobre Mim
 
-🔹 **Desenvolvedor Full Stack na [Flowit](#) | Java + Spring Boot | React + TypeScript**  
+🔹 **Desenvolvedor Full Stack na [Flowit](https://flowit.app.br/) | Java + Spring Boot | React + TypeScript**  
 🔹 Trabalho no desenvolvimento de um **ERP SaaS** para empresas de serviços: CRM, financeiro, faturamento, cobrança e integração contábil.  
 🔹 Transicionei da construção civil para a programação em 2024, área que me encanta desde a infância.  
 🔹 Gosto de resolver problema de verdade: regra de negócio, dado consistente e tela que o usuário entende.
